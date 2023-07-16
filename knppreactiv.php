@@ -1,5 +1,4 @@
 <?php
-
 /*
  * Plugin Name:       Knp PreActive Customisations
  * Description:       Handle the logic for form submissions, courses etc and hadnle the encrypted user profiles
