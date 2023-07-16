@@ -1,0 +1,19 @@
+{
+    "name": "coda/knppreactiv",
+    "description": "Classes used for PreActive Course Logic and Patient profile",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "PreActive\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alex Knopp",
+            "email": "coda@knoppys.co.uk"
+        }
+    ],
+    "require": {
+        "defuse/php-encryption": "^2.4"
+    }
+}
